@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <data name="email_0_is_already_registered" xml:space="preserve">
+        <value>Email {0} is already registered.</value>
+    </data>
+    <data name="username_0_is_already_taken" xml:space="preserve">
+        <value>Username {0} is already taken.</value>
+    </data>
+    <data name="phone_number_0_is_already_registered" xml:space="preserve">
+        <value>Phone number {0} is already registered.</value>
+    </data>
+    <data name="user_0_registered" xml:space="preserve">
+        <value>User {0} is registered</value>
+    </data>    
+</root>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <data name="email_0_is_already_registered" xml:space="preserve">
+        <value>البريد {0} مسجل مسبقا</value>
+    </data>
+    <data name="username_0_is_already_taken" xml:space="preserve">
+        <value>اسم المستخدم {0} مسجل من قبل</value>
+    </data>
+    <data name="phone_number_0_is_already_registered" xml:space="preserve">
+        <value>رقم الهاتف {0} مسجل من قبل</value>
+    </data>
+    <data name="user_0_registered" xml:space="preserve">
+        <value>تم تسجيل المستخدم {0}</value>
+    </data>    
+</root>
