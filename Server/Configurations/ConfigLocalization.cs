@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Localization;
 using Server.Constants;
 using Server.CultureProviders;
-using Server.Resources.Shared;
 
 namespace Server.Configurations;
 
