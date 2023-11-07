@@ -1,3 +1,4 @@
+using Application;
 using Infrastructure;
 using Server.Configurations;
 
@@ -13,6 +14,7 @@ services.AddEndpointsApiExplorer();
 services.AddSwaggerGen();
 
 services.AddInfrastructureServices(builder.Configuration);
+services.AddApplicationServices();
 
 
 //Configurations
